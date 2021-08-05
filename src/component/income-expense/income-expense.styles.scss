@@ -1,0 +1,27 @@
+.income-expense{
+    background-color:#2b2b2b;
+    box-shadow: 1px 1px 3px #1a1a1a;
+    .income{
+        border-right: 1px solid #525252;
+        padding: 20px;
+        text-align: center;
+        .text{
+            color: white;
+            margin-right: 20px;
+        }
+        .amount{
+            color: #00B3B0;
+        };
+    }
+    .expense{
+        padding: 20px;
+        text-align: center;
+        .text{
+            color: white;
+            margin-right: 20px;
+        }
+        .amount{
+            color: #c43d3d;
+        }
+    }
+}

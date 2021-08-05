@@ -1,0 +1,24 @@
+.transaction-list{
+    background-color: #2b2b2b;
+    margin: 10px;
+    padding: 10px;
+    .text{
+        color: white;
+
+    }
+    .amount{
+        color: #c43d3d;
+        margin-left: auto;
+        float: right;
+    }
+    .t{
+        color:#00B3B0;
+    }
+    .arrow{
+        color: white;
+        background-color:#2b2b2b;
+        border: none;
+        float: right;
+        margin-left: 10px;
+    }
+}

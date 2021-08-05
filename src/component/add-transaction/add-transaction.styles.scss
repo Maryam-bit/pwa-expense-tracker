@@ -1,0 +1,57 @@
+.add-transaction{
+    margin-top: 10px;
+    span{
+        color: white;
+        display: block;
+        font-size: 13px;
+    }
+    input{
+        width: 100%;
+        background-color:#2b2b2b;
+        box-shadow: 1px 1px 2px #1a1a1a;
+        border:none;
+        padding: 6px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        &:focus{
+            outline: none;
+        }
+    }
+}
+
+.button{
+    margin-top: 14px;
+    justify-content: space-around;
+    .example_e {
+        border: none;
+        background: #404040;
+        color: #ffffff !important;
+        font-weight: 400;
+        letter-spacing: 1px;
+        padding: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+        text-transform: uppercase;
+        border-radius: 6px;
+        display: inline-block;
+        transition: all 0.3s ease 0s;
+        font-size: 12px;
+        &:hover {
+            color: #aeaeae !important;
+            font-weight: 700 !important;
+            letter-spacing: 3px;
+            background: none;
+            -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+            -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+            transition: all 0.3s ease 0s;
+        }
+       
+    }
+    .inc{
+        border: 1px solid #00B3B0;
+    }
+    .exp{
+        border: 1px solid #c43d3d;
+    }
+}
+
