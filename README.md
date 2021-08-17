@@ -3,9 +3,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="https://scontent.fisb7-1.fna.fbcdn.net/v/t1.15752-9/192546250_213161857300103_5442800729776006111_n.png?_nc_cat=100&ccb=1-3&_nc_sid=ae9488&_nc_ohc=3r9haEzeR9cAX9exAQx&_nc_ht=scontent.fisb7-1.fna&oh=1ff475f6a0fbd2b0c1538d2005c361d2&oe=60CA7102" alt="Flowers in Chania" width="200">
+  <img src="https://user-images.githubusercontent.com/56764144/129733133-af90bc10-3330-4b3e-b18d-84ec983aac1f.png" alt="expense tracker pwa" width="200">
 
-  <h1 align="center">EXPENSE TRACKER APP IN CONTEXT API</h1>
+  <h1 align="center">PWA EXPENSE TRACKER APP</h1>
 </div>
 
 
